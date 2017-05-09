@@ -1,0 +1,19 @@
+{
+  "name": "labsandoop",
+  "version": "1.0.0",
+  "description": "Labs and OOP",
+  "main": "dataTypes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Weelyiamz/Labs-and-OOP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Weelyiamz/Labs-and-OOP/issues"
+  },
+  "homepage": "https://github.com/Weelyiamz/Labs-and-OOP#readme"
+}
